@@ -1,0 +1,25 @@
+{
+  "name": "node_task1a",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/itxyousafWebdev/node_task1a.git"
+  },
+  "author": "Yousaf Kayani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/itxyousafWebdev/node_task1a/issues"
+  },
+  "homepage": "https://github.com/itxyousafWebdev/node_task1a#readme",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.18.0"
+  }
+}
